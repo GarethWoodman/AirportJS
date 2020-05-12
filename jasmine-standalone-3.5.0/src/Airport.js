@@ -1,5 +1,5 @@
 class Airport{
-  land(plane){
-    return new Plane();
+  list_of_planes(){
+    return [];
   };
 };
